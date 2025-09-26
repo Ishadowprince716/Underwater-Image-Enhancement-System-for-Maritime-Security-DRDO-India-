@@ -1,0 +1,2 @@
+# Underwater-Image-Enhancement-System-for-Maritime-Security-DRDO-India-
+Defense-grade underwater image enhancement system for DRDO Maritime Security. Real-time processing: 30+ FPS on Jetson Orin NX, 60+ FPS on RTX GPUs. Complete production system with REST/gRPC APIs, Docker/K8s deployment, CI/CD pipelines, SBOM generation, container signing. Mission presets for port surveillance, diver assistance, deep water ops.
