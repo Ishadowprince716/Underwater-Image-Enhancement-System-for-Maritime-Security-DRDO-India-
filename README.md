@@ -22,8 +22,9 @@ The Underwater Image Enhancement System is a production-ready, real-time solutio
 - **⚡ Edge & Cloud Ready**: Optimized for NVIDIA Jetson and Kubernetes deployment
 - **🛡️ Defense-Grade Security**: SBOM generation, image signing, vulnerability scanning
 
-## 🏗️ Architecture
-![Uploading unnamed.png…]()
+## 🏗️ Architecture :
+![Uploading Gemini_Generated_Image_9goe8o9goe8o9goe.png…]()
+
 
 ```mermaid
 graph TD
