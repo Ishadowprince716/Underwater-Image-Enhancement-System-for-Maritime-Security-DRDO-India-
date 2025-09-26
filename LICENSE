@@ -1,22 +1,226 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2025 rahul singh kushwah
+UNDERWATER IMAGE ENHANCEMENT SYSTEM FOR MARITIME SECURITY
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 Defence Research and Development Organisation (DRDO), India
+All Rights Reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-Proprietary - Copyright (c) 2025 DRDO India. All rights reserved.
+IMPORTANT - READ CAREFULLY: This Proprietary Software License Agreement 
+("Agreement") is a legal agreement between you (either an individual or a single 
+entity) ("Licensee") and the Defence Research and Development Organisation 
+(DRDO), Government of India ("Licensor") for the Underwater Image Enhancement 
+System software, including associated media, printed materials, documentation, 
+and any updates or upgrades provided by DRDO (collectively, the "Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, LICENSEE AGREES TO BE 
+BOUND BY THE TERMS OF THIS AGREEMENT. IF LICENSEE DOES NOT AGREE TO THE TERMS 
+OF THIS AGREEMENT, DO NOT INSTALL OR USE THE SOFTWARE.
+
+================================================================================
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, DRDO hereby grants to 
+Licensee a limited, non-exclusive, non-transferable license to:
+
+a) Use the Software solely for maritime security applications, underwater image 
+   enhancement, and related defense research purposes;
+
+b) Install and use the Software on systems owned, leased, or controlled by 
+   Indian defense establishments, authorized research institutions, and 
+   government agencies;
+
+c) Create backup copies of the Software solely for archival purposes.
+
+2. RESTRICTIONS
+
+Licensee shall NOT:
+
+a) Distribute, sell, lease, rent, or sublicense the Software to any third party;
+
+b) Reverse engineer, decompile, disassemble, or otherwise attempt to derive 
+   the source code of the Software, except to the extent permitted by applicable 
+   law;
+
+c) Modify, adapt, alter, translate, or create derivative works based on the 
+   Software;
+
+d) Remove, alter, or obscure any proprietary notices, labels, or marks on the 
+   Software;
+
+e) Use the Software for any commercial purposes outside of authorized defense 
+   applications;
+
+f) Export or re-export the Software without appropriate government licenses and 
+   approvals as required by Indian export control laws;
+
+g) Use the Software in any manner that violates applicable laws or regulations.
+
+3. OWNERSHIP
+
+The Software is proprietary to DRDO and is protected by copyright laws, 
+international treaty provisions, and other applicable laws. DRDO and its 
+suppliers retain all right, title, and interest in and to the Software, 
+including all intellectual property rights therein. Licensee acknowledges 
+that no title to or ownership of the Software is transferred to Licensee.
+
+4. CLASSIFIED/SENSITIVE INFORMATION
+
+Licensee acknowledges that the Software may contain information classified 
+under the Official Secrets Act, 1923, and other applicable Indian laws. 
+Licensee agrees to:
+
+a) Maintain the confidentiality of all classified or sensitive information;
+
+b) Handle the Software in accordance with applicable security protocols and 
+   classification guidelines;
+
+c) Limit access to the Software to personnel with appropriate security 
+   clearance and need-to-know basis;
+
+d) Report any security incidents or unauthorized access immediately to DRDO 
+   security authorities.
+
+5. GOVERNMENT USE
+
+If Licensee is an agency or instrumentality of the Government of India, the 
+Software is provided as "Restricted Computer Software" and the Government's 
+rights in the Software are only those specified in this Agreement.
+
+6. SUPPORT AND MAINTENANCE
+
+DRDO may, at its sole discretion, provide technical support, updates, and 
+maintenance for the Software. Any such support shall be subject to separate 
+terms and conditions as may be specified by DRDO.
+
+7. NO WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. DRDO DISCLAIMS 
+ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT 
+LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL DRDO BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, 
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF 
+PROFITS, DATA, OR USE, INCURRED BY LICENSEE OR ANY THIRD PARTY, WHETHER IN 
+AN ACTION IN CONTRACT OR TORT, EVEN IF DRDO HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.
+
+9. INDEMNIFICATION
+
+Licensee agrees to indemnify, defend, and hold harmless DRDO, its officers, 
+employees, agents, and representatives from and against any claims, damages, 
+losses, costs, and expenses (including reasonable attorneys' fees) arising 
+out of or resulting from Licensee's use of the Software in violation of this 
+Agreement.
+
+10. TERMINATION
+
+This Agreement is effective until terminated. DRDO may terminate this Agreement 
+immediately without notice if Licensee breaches any term of this Agreement. 
+Upon termination, Licensee shall immediately discontinue use of the Software 
+and destroy all copies of the Software in Licensee's possession or control.
+
+11. EXPORT CONTROL
+
+Licensee acknowledges that the Software is subject to Indian export control 
+laws and regulations, including the Foreign Trade (Development and Regulation) 
+Act, 2003, and related rules. Licensee agrees to comply with all applicable 
+export control laws and shall not export or re-export the Software without 
+obtaining required government approvals.
+
+12. SECURITY REQUIREMENTS
+
+Licensee shall implement and maintain reasonable security measures to protect 
+the Software from unauthorized access, use, modification, or disclosure. This 
+includes:
+
+a) Physical security measures for systems containing the Software;
+b) Network security controls and access restrictions;
+c) Personnel security screening for individuals with access to the Software;
+d) Incident response procedures for security breaches.
+
+13. AUDIT RIGHTS
+
+DRDO reserves the right, upon reasonable notice, to audit Licensee's use of 
+the Software to ensure compliance with this Agreement. Licensee shall provide 
+reasonable cooperation and access to relevant records and systems for such 
+audits.
+
+14. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws 
+of India. Any disputes arising under this Agreement shall be subject to the 
+exclusive jurisdiction of the courts in New Delhi, India.
+
+15. SEVERABILITY
+
+If any provision of this Agreement is held to be unenforceable or invalid, 
+such provision shall be changed and interpreted to accomplish the objectives 
+of such provision to the greatest extent possible under applicable law, and 
+the remaining provisions shall continue in full force and effect.
+
+16. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties with 
+respect to the Software and supersedes all prior or contemporaneous 
+understandings or agreements, written or oral, regarding the Software.
+
+17. CONTACT INFORMATION
+
+For questions regarding this license or the Software, contact:
+
+Defence Research and Development Organisation (DRDO)
+Maritime AI Systems Division
+DRDO Bhavan, New Delhi 110011, India
+Email: maritime-ai-legal@drdo.gov.in
+Phone: +91-11-XXXX-XXXX
+
+For security-related issues:
+Email: maritime-ai-security@drdo.gov.in
+Phone: +91-11-XXXX-XXXX (24/7 Security Hotline)
+
+================================================================================
+
+ACKNOWLEDGMENT
+
+BY INSTALLING OR USING THE SOFTWARE, LICENSEE ACKNOWLEDGES THAT LICENSEE HAS 
+READ THIS AGREEMENT, UNDERSTANDS IT, AND AGREES TO BE BOUND BY ITS TERMS AND 
+CONDITIONS. LICENSEE FURTHER ACKNOWLEDGES THAT THIS AGREEMENT IS THE COMPLETE 
+AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN DRDO AND LICENSEE.
+
+================================================================================
+
+SPECIAL PROVISIONS FOR DEFENSE APPLICATIONS
+
+1. NATIONAL SECURITY CLASSIFICATION
+   This Software is developed for national security applications and may be 
+   subject to classification under the Official Secrets Act, 1923.
+
+2. TECHNOLOGY TRANSFER RESTRICTIONS
+   Transfer of this technology outside India is strictly prohibited without 
+   explicit government approval and compliance with applicable export controls.
+
+3. DUAL-USE TECHNOLOGY NOTICE
+   This Software may be considered dual-use technology under Indian regulations. 
+   Licensee acknowledges awareness of potential restrictions on technology 
+   transfer and export.
+
+4. MARITIME DOMAIN AWARENESS
+   This Software is specifically designed for enhancing India's maritime domain 
+   awareness capabilities and should be used solely for legitimate defense and 
+   security purposes.
+
+================================================================================
+
+Version: 1.0
+Effective Date: September 26, 2025
+Document Classification: RESTRICTED
+
+Defence Research and Development Organisation (DRDO)
+Government of India
+Ministry of Defence
